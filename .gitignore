@@ -1,0 +1,5 @@
+# Ignora pastas do Terraform em qualquer subnível
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
